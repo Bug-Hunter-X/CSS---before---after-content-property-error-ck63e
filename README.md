@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug involving the CSS `content` property within `::before` and `::after` pseudo-elements.  Incorrect usage, such as unclosed quotes or invalid Unicode characters, can lead to unexpected visual results or console errors.  The `bug.css` file shows the problematic code, while `solution.css` provides the correction.
